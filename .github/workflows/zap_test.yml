@@ -2,7 +2,7 @@ name: ZAP-Test
 
 on:
   push: 
-    branches: [ master ]
+    branches: [ E-376/Zap-pen-test ]
 
 jobs: 
   build: 
